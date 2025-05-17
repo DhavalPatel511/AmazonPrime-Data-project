@@ -9,7 +9,7 @@ The project involves structured data engineering, cleaning, modeling, and insigh
 
 ---
 
-## 🏗️ ETL Pipeline
+##  ETL Pipeline
 
 The project follows a layered approach:
 
@@ -21,7 +21,7 @@ The project follows a layered approach:
 
 ---
 
-## 🧠 Analytical Questions Covered
+##  Analytical Questions Covered
 
 A total of **12 insights** are answered using SQL queries, such as:
 
@@ -35,7 +35,7 @@ See [`queries.sql`](scripts/queries.sql) for full details.
 
 ---
 
-## 🛠 Tools & Tech Stack
+##  Tools & Tech Stack
 
 - **Python** (Pandas + pyodbc) — for data ingestion
 - **SQL Server Express** — for storage and querying
